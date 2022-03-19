@@ -1,8 +1,8 @@
 {
   "users": [
     { "id": 1, "username": "muhammed","password":"12345","active":"true","connstring":"contring://asdasd"},
-    { "id": 1, "username": "muhammed","password":"12345","active":"true","connstring":"contring://asdasd"},
-    { "id": 1, "username": "muhammed","password":"12345","active":"true","connstring":"contring://asdasd"}
+    { "id": 2, "username": "eyüp","password":"54321","active":"true","connstring":"contring://asdasd"},
+    { "id": 3, "username": "mustafa","password":"25879","active":"true","connstring":"contring://asdasd"}
   ],
   "profile": {
     "name": "typicode"
